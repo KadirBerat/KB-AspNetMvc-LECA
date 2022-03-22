@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+	<metadata>
+		<id>KB-LECA</id>
+		<version>1.0.0</version>
+		<title>KB LECA</title>
+		<authors>Kadir Berat Guventurk</authors>
+		<owners>Kadir Berat Guventurk</owners>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<license type="expression">MIT</license>
+		<projectUrl>https://github.com/KadirBerat/KB-AspNetMvc-LECA.git</projectUrl>
+		<readme>README.md</readme>
+		<description>Logging, error catching and authentication solution for Asp Net Mvc projects. </description>
+		<releaseNotes>First release of this version.</releaseNotes>
+		<copyright>Copyright 2022 kadirguventurk</copyright>
+		<tags>Logging Error-Catching Authentication AspNet MVC Web</tags>
+	</metadata>
+	<files>
+		<file src="README.md" target="" />
+	</files>
+</package>
